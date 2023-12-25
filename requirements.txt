@@ -1,0 +1,5 @@
+python-dotenv==1.0.0
+Requests==2.31.0
+requests_toolbelt==1.0.0
+rich==13.7.0
+selenium==4.16.0
