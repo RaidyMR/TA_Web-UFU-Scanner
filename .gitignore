@@ -1,1 +1,4 @@
 .env
+
+resources/modified/*
+!resources/modified/.gitkeep
